@@ -1,6 +1,6 @@
 # 🚀 Delta - Roblox Executor **[![Download Delta](https://img.shields.io/badge/Download-Delta-blueviolet)](../../releases)**
 
-![Delta Preview](/Assets/Solara.gif)
+![Delta Preview](/Assets/Delta.jpeg)
 
 ## Quick Installation
 To get started with Delta, follow these simple steps:
